@@ -1,7 +1,7 @@
 # Write-ups MINI-CTF
 ## Challenge WEB
 ### [Easy] Surfer
-** Première étape : Reconnaissance **
+**Première étape : Reconnaissance**
 En nous rendant sur l'IP fourni, nous arrivons sur une page de login.
 Rien n'est présent dans les commentaires de cette page.
 Si on vérifie les fichiers présents généralement sur les pages web, comme par exemple : <ins>robots.txt</ins>
